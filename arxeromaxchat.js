@@ -1,3 +1,4 @@
+
 if (document.getElementById('ewclink') == null) {
 	document.write("<a id=\"ewclink\" href=\"https://www.facebook.com/UnitedSEAxx/\">ArxEromax</a><br />");
 } else if (document.getElementById('ewclink').href != "http://www.everywherechat.com/") {
@@ -348,4 +349,3 @@ function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
   if (mimeType) ret.embedAttrs["type"] = mimeType;
   return ret;
 }
-
