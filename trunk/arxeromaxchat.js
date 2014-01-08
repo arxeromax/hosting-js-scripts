@@ -1,6 +1,5 @@
-
 if (document.getElementById('ewclink') == null) {
-	document.write("<a id=\"ewclink\" href=\"http://www.everywherechat.com/\">ArxEromax</a><br />");
+	document.write("<a id=\"ewclink\" href=\"https://www.facebook.com/UnitedSEAxx/\">ArxEromax</a><br />");
 } else if (document.getElementById('ewclink').href != "http://www.everywherechat.com/") {
 	document.getElementById('ewclink').href = "http://www.everywherechat.com/";
 	document.getElementById('ewclink').innerHTML = "EveryWhereChat Free Flash Chatrooms";
